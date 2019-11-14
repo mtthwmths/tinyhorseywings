@@ -1,0 +1,21 @@
+# stuff I've added from here down. :)
+
+# Add my bash aliases from .bash-aliases
+# any PATH modifications are in .profile
+if [ -f ~/.bash_aliases ]; then
+      source ~/.bash_aliases
+fi
+
+#easy way to view md files in lynx
+readmd () {
+    pandoc $1 | lynx -stdin
+}
+
+#memeteamdreams
+hellothere () {
+  echo "general kenobi"
+}
+#don't forget about nethack.
+#tooltip format for the manjaro clock
+#  It is %H hours and %M minutes into %A the %e of %B in the year of our lord %Y my liege.
+
