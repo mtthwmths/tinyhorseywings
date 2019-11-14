@@ -1,0 +1,1587 @@
+0.00 MiB	ca-certificates
+0.00 MiB	exo-gtk3
+0.00 MiB	garcon-gtk3
+0.00 MiB	java-environment-common
+0.00 MiB	libxfce4ui-gtk3
+0.00 MiB	libxfce4util-gtk3
+0.00 MiB	manjaro-alsa
+0.00 MiB	manjaro-pulse
+0.00 MiB	manjaro-release
+0.00 MiB	mhwd-nvidia-440xx
+0.00 MiB	mozilla-common
+0.00 MiB	pulseaudio-alsa
+0.00 MiB	thunar-gtk3
+0.00 MiB	vte-common
+0.00 MiB	xfce4-appfinder-gtk3
+0.00 MiB	xfce4-notifyd-gtk3
+0.00 MiB	xfce4-panel-gtk3
+0.00 MiB	xfce4-power-manager-gtk3
+0.00 MiB	xfce4-session-gtk3
+0.00 MiB	xfce4-settings-gtk3
+0.00 MiB	xfce4-whiskermenu-plugin-gtk3
+0.00 MiB	xfconf-gtk3
+0.00 MiB	xfdesktop-gtk3
+0.00 MiB	xfwm4-gtk3
+0.00 MiB	xorg-font-utils
+0.01 MiB	ca-certificates-utils
+0.01 MiB	fuse-common
+0.01 MiB	haskell-time-locale-compat
+0.01 MiB	java-runtime-common
+0.01 MiB	lib32-flex
+0.01 MiB	lib32-libxau
+0.01 MiB	lib32-libxcomposite
+0.01 MiB	lib32-libxdamage
+0.01 MiB	lib32-libxinerama
+0.01 MiB	lib32-libxshmfence
+0.01 MiB	lib32-libxss
+0.01 MiB	manjaro-system
+0.01 MiB	numlockx
+0.01 MiB	pambase
+0.01 MiB	perl-alien-libxml2
+0.02 MiB	acpi
+0.02 MiB	bashrc-manjaro
+0.02 MiB	harfbuzz-icu
+0.02 MiB	haskell-base-orphans
+0.02 MiB	haskell-data-default
+0.02 MiB	haskell-data-default-instances-containers
+0.02 MiB	haskell-data-default-instances-dlist
+0.02 MiB	haskell-data-default-instances-old-locale
+0.02 MiB	lib32-attr
+0.02 MiB	lib32-keyutils
+0.02 MiB	lib32-libcap
+0.02 MiB	lib32-libxxf86vm
+0.02 MiB	libaio
+0.02 MiB	manjaro-base-skel
+0.02 MiB	mhwd-amdgpu
+0.02 MiB	perl-clone
+0.02 MiB	perl-ffi-checklib
+0.02 MiB	perl-file-basedir
+0.02 MiB	perl-file-chdir
+0.02 MiB	perl-file-which
+0.02 MiB	perl-xml-namespacesupport
+0.02 MiB	python-zipp
+0.02 MiB	wireless-regdb
+0.02 MiB	xf86-input-void
+0.02 MiB	xorg-fonts-alias
+0.03 MiB	dnssec-anchors
+0.03 MiB	expac
+0.03 MiB	gtk-update-icon-cache
+0.03 MiB	haskell-byteable
+0.03 MiB	hyphen
+0.03 MiB	lib32-libasyncns
+0.03 MiB	lib32-libcanberra-pulse
+0.03 MiB	lib32-libxdmcp
+0.03 MiB	lib32-libxfixes
+0.03 MiB	lib32-libxtst
+0.03 MiB	libcanberra-pulse
+0.03 MiB	libusb-compat
+0.03 MiB	libxfixes
+0.03 MiB	manjaro-hotfixes
+0.03 MiB	mhwd-ati
+0.03 MiB	mhwd-catalyst
+0.03 MiB	mhwd-nvidia-340xx
+0.03 MiB	mhwd-nvidia-390xx
+0.03 MiB	mhwd-nvidia-418xx
+0.03 MiB	mhwd-nvidia-430xx
+0.03 MiB	mhwd-nvidia-435xx
+0.03 MiB	mkinitcpio-openswap
+0.03 MiB	mtpfs
+0.03 MiB	perl-file-desktopentry
+0.03 MiB	pygobject-devel
+0.03 MiB	python-retrying
+0.03 MiB	python-setproctitle
+0.03 MiB	systemd-fsck-silent
+0.03 MiB	systemd-sysvcompat
+0.03 MiB	which
+0.03 MiB	xcb-util
+0.03 MiB	xcb-util-keysyms
+0.03 MiB	xcb-util-renderutil
+0.04 MiB	android-udev
+0.04 MiB	cowsay
+0.04 MiB	efibootmgr
+0.04 MiB	game-devices-udev
+0.04 MiB	gcolor2
+0.04 MiB	iniparser
+0.04 MiB	lib32-cracklib
+0.04 MiB	lib32-libdatrie
+0.04 MiB	lib32-libltdl
+0.04 MiB	lib32-libsm
+0.04 MiB	lib32-libxcursor
+0.04 MiB	libdvdcss
+0.04 MiB	libguess
+0.04 MiB	libnfnetlink
+0.04 MiB	libxkbcommon-x11
+0.04 MiB	libxshmfence
+0.04 MiB	libxxf86vm
+0.04 MiB	lsb-release
+0.04 MiB	microsoft-office-online-jak
+0.04 MiB	perl-capture-tiny
+0.04 MiB	perl-error
+0.04 MiB	perl-ipc-system-simple
+0.04 MiB	python-progress
+0.04 MiB	qt5-x11extras
+0.04 MiB	run-parts
+0.04 MiB	xdg-dbus-proxy
+0.04 MiB	xf86-input-keyboard
+0.04 MiB	xorg-bdftopcf
+0.04 MiB	xorg-xdpyinfo
+0.05 MiB	gvfs-nfs
+0.05 MiB	haskell-digest
+0.05 MiB	lib32-libffi
+0.05 MiB	lib32-libxrandr
+0.05 MiB	lib32-libxrender
+0.05 MiB	libasyncns
+0.05 MiB	libdaemon
+0.05 MiB	liblrdf
+0.05 MiB	libspiro
+0.05 MiB	libxxf86misc
+0.05 MiB	mhwd-db
+0.05 MiB	openresolv
+0.05 MiB	python-constantly
+0.05 MiB	python-geoip
+0.05 MiB	xcb-util-image
+0.05 MiB	xdg-su
+0.05 MiB	xorg-xkill
+0.06 MiB	b43-fwcutter
+0.06 MiB	bubblewrap
+0.06 MiB	haskell-asn1-parse
+0.06 MiB	haskell-data-default-class
+0.06 MiB	haskell-erf
+0.06 MiB	haskell-hslua-module-text
+0.06 MiB	haskell-x509-system
+0.06 MiB	lib32-libgudev
+0.06 MiB	lib32-libpciaccess
+0.06 MiB	lib32-libthai
+0.06 MiB	libbs2b
+0.06 MiB	libbytesize
+0.06 MiB	libdatrie
+0.06 MiB	libmnl
+0.06 MiB	libndp
+0.06 MiB	libxau
+0.06 MiB	libxdamage
+0.06 MiB	libxv
+0.06 MiB	npth
+0.06 MiB	pulseaudio-ctl
+0.06 MiB	pygobject2-devel
+0.06 MiB	python-ptyprocess
+0.06 MiB	python-pytoml
+0.06 MiB	python-webencodings
+0.06 MiB	startup-notification
+0.06 MiB	xorg-setxkbmap
+0.07 MiB	haskell-temporary
+0.07 MiB	hicolor-icon-theme
+0.07 MiB	lib32-bzip2
+0.07 MiB	lib32-libogg
+0.07 MiB	lib32-libxi
+0.07 MiB	lib32-lm_sensors
+0.07 MiB	libgssglue
+0.07 MiB	libkeybinder3
+0.07 MiB	libmms
+0.07 MiB	libxcomposite
+0.07 MiB	libxinerama
+0.07 MiB	libxpresent
+0.07 MiB	libxres
+0.07 MiB	libxss
+0.07 MiB	wpebackend-fdo
+0.07 MiB	xf86-input-elographics
+0.07 MiB	xfce4-smartbookmark-plugin
+0.07 MiB	xorg-iceauth
+0.07 MiB	xorg-xrdb
+0.07 MiB	xorg-xset
+0.08 MiB	lib32-libdbusmenu-gtk2
+0.08 MiB	lib32-libxext
+0.08 MiB	libfontenc
+0.08 MiB	liblqr
+0.08 MiB	libtar
+0.08 MiB	libxrender
+0.08 MiB	minizip
+0.08 MiB	mtdev
+0.08 MiB	perl-file-mimeinfo
+0.08 MiB	perl-timedate
+0.08 MiB	python-appdirs
+0.08 MiB	python-colorama
+0.08 MiB	python-distutils-extra
+0.08 MiB	python-docopt
+0.08 MiB	python-lockfile
+0.08 MiB	python-markupsafe
+0.08 MiB	python-service-identity
+0.08 MiB	rtkit
+0.08 MiB	usbmuxd
+0.08 MiB	xorg-xinit
+0.08 MiB	xorg-xmodmap
+0.08 MiB	xorg-xprop
+0.08 MiB	zita-alsa-pcmi
+0.09 MiB	gsm
+0.09 MiB	gvfs-smb
+0.09 MiB	haskell-pem
+0.09 MiB	lib32-libgusb
+0.09 MiB	lib32-libindicator-gtk2
+0.09 MiB	lib32-libpsl
+0.09 MiB	lib32-libxft
+0.09 MiB	libatasmart
+0.09 MiB	libdmx
+0.09 MiB	libpaper
+0.09 MiB	libpciaccess
+0.09 MiB	libusbmuxd
+0.09 MiB	libxvmc
+0.09 MiB	libxxf86dga
+0.09 MiB	pptpclient
+0.09 MiB	pulseaudio-zeroconf
+0.09 MiB	python-six
+0.09 MiB	xorg-mkfontscale
+0.09 MiB	xorg-xauth
+0.10 MiB	haskell-integer-logarithms
+0.10 MiB	lib32-libice
+0.10 MiB	lib32-libnsl
+0.10 MiB	lib32-libtasn1
+0.10 MiB	lib32-libva-vdpau-driver
+0.10 MiB	lib32-libvdpau
+0.10 MiB	lib32-tdb
+0.10 MiB	lib32-zlib
+0.10 MiB	libindicator-gtk2
+0.10 MiB	libmpcdec
+0.10 MiB	logrotate
+0.10 MiB	mailcap
+0.10 MiB	nss-mdns
+0.10 MiB	perl-parse-yapp
+0.10 MiB	perl-xml-sax
+0.10 MiB	python-cachecontrol
+0.10 MiB	python-keyutils
+0.10 MiB	qrencode
+0.10 MiB	snappy
+0.10 MiB	xorg-xrandr
+0.11 MiB	argon2
+0.11 MiB	gtkspell
+0.11 MiB	haskell-x509-store
+0.11 MiB	lib32-fribidi
+0.11 MiB	lib32-libusb
+0.11 MiB	libavc1394
+0.11 MiB	libffi
+0.11 MiB	libid3tag
+0.11 MiB	libunique
+0.11 MiB	libva-vdpau-driver
+0.11 MiB	pamac-cli
+0.11 MiB	perl-mailtools
+0.11 MiB	python-pep517
+0.11 MiB	xfce4-genmon-plugin
+0.12 MiB	haskell-base64-bytestring
+0.12 MiB	haskell-dlist
+0.12 MiB	ijs
+0.12 MiB	lib32-libidn2
+0.12 MiB	lib32-libxmu
+0.12 MiB	libcap
+0.12 MiB	libcap-ng
+0.12 MiB	libdbusmenu-gtk2
+0.12 MiB	libpipeline
+0.12 MiB	libxcursor
+0.12 MiB	libxrandr
+0.12 MiB	libxtst
+0.12 MiB	manjaro-icons
+0.12 MiB	manjaro-xfce-gtk3-settings
+0.12 MiB	perl-path-tiny
+0.12 MiB	sysfsutils
+0.12 MiB	xf86-input-mouse
+0.12 MiB	xfce4-wavelan-plugin
+0.12 MiB	xorg-server-common
+0.13 MiB	chromaprint
+0.13 MiB	faac
+0.13 MiB	fakeroot
+0.13 MiB	haskell-cookie
+0.13 MiB	haskell-old-locale
+0.13 MiB	haskell-splitmix
+0.13 MiB	lib32-dconf
+0.13 MiB	lib32-libdbusmenu-glib
+0.13 MiB	lib32-libgpg-error
+0.13 MiB	lib32-libproxy
+0.13 MiB	libimagequant
+0.13 MiB	libmpc
+0.13 MiB	libraqm
+0.13 MiB	xcursor-simpleandsoft
+0.13 MiB	xf86-input-evdev
+0.14 MiB	bzip2
+0.14 MiB	gupnp-igd
+0.14 MiB	haskell-hslua-module-system
+0.14 MiB	lib32-lz4
+0.14 MiB	libappindicator-gtk2
+0.14 MiB	libsynctex
+0.14 MiB	libwbclient
+0.14 MiB	os-prober
+0.14 MiB	python-packaging
+0.14 MiB	python-rencode
+0.14 MiB	python-sip-pyqt5
+0.14 MiB	unace
+0.15 MiB	a52dec
+0.15 MiB	acpid
+0.15 MiB	aribb24
+0.15 MiB	gvfs-afc
+0.15 MiB	gzip
+0.15 MiB	haskell-aeson-pretty
+0.15 MiB	haskell-case-insensitive
+0.15 MiB	haskell-split
+0.15 MiB	haveged
+0.15 MiB	intltool
+0.15 MiB	jbig2dec
+0.15 MiB	json-c
+0.15 MiB	libassuan
+0.15 MiB	libcdio-paranoia
+0.15 MiB	libdvdnav
+0.15 MiB	libiec61883
+0.15 MiB	libmad
+0.15 MiB	memtest86+
+0.15 MiB	rpcbind
+0.15 MiB	splix
+0.15 MiB	thunar-archive-plugin
+0.15 MiB	xdg-user-dirs
+0.15 MiB	xf86-input-libinput
+0.15 MiB	xfce4-mpc-plugin
+0.15 MiB	xfce4-systemload-plugin
+0.16 MiB	celt
+0.16 MiB	ckbcomp
+0.16 MiB	enchant
+0.16 MiB	gvfs-gphoto2
+0.16 MiB	gvfs-mtp
+0.16 MiB	lib32-rest
+0.16 MiB	libcddb
+0.16 MiB	libnetfilter_conntrack
+0.16 MiB	libofa
+0.16 MiB	libraw1394
+0.16 MiB	libshout
+0.16 MiB	libx86emu
+0.16 MiB	libxft
+0.16 MiB	libxpm
+0.16 MiB	perl-uri
+0.16 MiB	perl-xml-sax-base
+0.16 MiB	python-importlib-metadata
+0.16 MiB	python-incremental
+0.16 MiB	v86d
+0.16 MiB	vid.stab
+0.16 MiB	xfce4-verve-plugin
+0.17 MiB	bc
+0.17 MiB	cdparanoia
+0.17 MiB	cifs-utils
+0.17 MiB	double-conversion
+0.17 MiB	gamin
+0.17 MiB	gksu-polkit
+0.17 MiB	keyutils
+0.17 MiB	lib32-expat
+0.17 MiB	lib32-polkit
+0.17 MiB	lib32-xz
+0.17 MiB	libusb
+0.17 MiB	libxdmcp
+0.17 MiB	manjaro-keyring
+0.17 MiB	patchutils
+0.17 MiB	serf
+0.17 MiB	woff2
+0.17 MiB	xf86-video-amdgpu
+0.17 MiB	xfce4-cpugraph-plugin
+0.18 MiB	libmpd
+0.18 MiB	manjaro-browser-settings
+0.18 MiB	stoken
+0.18 MiB	tevent
+0.19 MiB	attr
+0.19 MiB	htop
+0.19 MiB	jansson
+0.19 MiB	ladspa
+0.19 MiB	lib32-json-glib
+0.19 MiB	lib32-wayland
+0.19 MiB	libdv
+0.19 MiB	libnsl
+0.19 MiB	pulseaudio-bluetooth
+0.19 MiB	xfce4-time-out-plugin
+0.19 MiB	xfce4-timer-plugin
+0.19 MiB	zita-resampler
+0.20 MiB	haskell-http-client-tls
+0.20 MiB	lib32-libcanberra
+0.20 MiB	nfsidmap
+0.20 MiB	python-distro
+0.20 MiB	python-jade-application-kit
+0.20 MiB	ttf-inconsolata
+0.20 MiB	xfce4-netload-plugin
+0.21 MiB	at-spi2-atk
+0.21 MiB	c-ares
+0.21 MiB	desktop-file-utils
+0.21 MiB	dosfstools
+0.21 MiB	haskell-bitarray
+0.21 MiB	lib32-libidn
+0.21 MiB	libdca
+0.21 MiB	libmpeg2
+0.21 MiB	libyaml
+0.21 MiB	mkinitcpio
+0.21 MiB	python-pycups
+0.21 MiB	qt5-webchannel
+0.21 MiB	wildmidi
+0.21 MiB	xfce4-cpufreq-plugin
+0.21 MiB	xorg-xkbcomp
+0.22 MiB	dmidecode
+0.22 MiB	fribidi
+0.22 MiB	hdparm
+0.22 MiB	lib32-alsa-plugins
+0.22 MiB	lib32-at-spi2-atk
+0.22 MiB	lib32-libva
+0.22 MiB	patch
+0.22 MiB	popt
+0.22 MiB	xcb-util-wm
+0.22 MiB	xfce4-diskperf-plugin
+0.23 MiB	cronie
+0.23 MiB	gst-libav
+0.23 MiB	less
+0.23 MiB	libnftnl
+0.23 MiB	libxkbfile
+0.23 MiB	lsof
+0.23 MiB	pkgconf
+0.23 MiB	screenfetch
+0.23 MiB	spectre-meltdown-checker
+0.23 MiB	tdb
+0.24 MiB	cups-pdf
+0.24 MiB	lib32-atk
+0.24 MiB	lib32-libtirpc
+0.24 MiB	talloc
+0.24 MiB	twolame
+0.24 MiB	xfce4-fsguard-plugin
+0.24 MiB	xorg-twm
+0.25 MiB	haskell-connection
+0.25 MiB	iw
+0.25 MiB	lib32-libxkbcommon
+0.25 MiB	libedit
+0.25 MiB	libpsl
+0.25 MiB	opencore-amr
+0.25 MiB	python2-cairo
+0.25 MiB	python-cairo
+0.25 MiB	sbc
+0.25 MiB	xf86-video-nouveau
+0.26 MiB	alsa-plugins
+0.26 MiB	filesystem
+0.26 MiB	haskell-async
+0.26 MiB	lib32-glib-networking
+0.26 MiB	libass
+0.26 MiB	libsidplay
+0.26 MiB	libwpe
+0.26 MiB	rtmpdump
+0.26 MiB	thunar-media-tags-plugin
+0.27 MiB	crda
+0.27 MiB	exfat-utils
+0.27 MiB	haskell-doctemplates
+0.27 MiB	haskell-uuid-types
+0.27 MiB	lib32-libcroco
+0.27 MiB	libnotify
+0.27 MiB	libunwind
+0.27 MiB	light-locker
+0.27 MiB	manjaro-application-utility
+0.27 MiB	pkcs11-helper
+0.27 MiB	soundtouch
+0.28 MiB	aalib
+0.28 MiB	iputils
+0.28 MiB	lib32-at-spi2-core
+0.28 MiB	lib32-nspr
+0.28 MiB	libdvdread
+0.28 MiB	libksba
+0.28 MiB	libxfont2
+0.28 MiB	m4
+0.28 MiB	usbutils
+0.28 MiB	xdg-utils
+0.28 MiB	xorg-font-util
+0.29 MiB	expat
+0.29 MiB	ffmpegthumbnailer
+0.29 MiB	gtk-engine-murrine
+0.29 MiB	haskell-regex-base
+0.29 MiB	haskell-x509-validation
+0.29 MiB	imagewriter
+0.29 MiB	libevdev
+0.29 MiB	python-anytree
+0.29 MiB	python-msgpack
+0.29 MiB	vi
+0.30 MiB	acl
+0.30 MiB	bluez-libs
+0.30 MiB	dmraid
+0.30 MiB	giflib
+0.30 MiB	libebml
+0.30 MiB	libgme
+0.30 MiB	libsrtp
+0.30 MiB	libvdpau
+0.30 MiB	mhwd
+0.30 MiB	pciutils
+0.30 MiB	protobuf-c
+0.30 MiB	python-attrs
+0.30 MiB	python-pyhamcrest
+0.30 MiB	unrar
+0.30 MiB	xfce4-mount-plugin
+0.31 MiB	geoip
+0.31 MiB	haskell-safe
+0.31 MiB	haskell-tf-random
+0.31 MiB	haskell-utf8-string
+0.31 MiB	lib32-fontconfig
+0.31 MiB	lib32-libpng
+0.31 MiB	libsm
+0.31 MiB	libsoxr
+0.31 MiB	libtasn1
+0.31 MiB	polkit-qt5
+0.31 MiB	python-automat
+0.31 MiB	python-pexpect
+0.31 MiB	python-ply
+0.32 MiB	haskell-tagged
+0.32 MiB	lib32-dbus
+0.32 MiB	libdbusmenu-glib
+0.32 MiB	libgadu
+0.32 MiB	libxklavier
+0.32 MiB	python-pycurl
+0.32 MiB	tlp
+0.32 MiB	usb_modeswitch
+0.32 MiB	zlib
+0.33 MiB	blas
+0.33 MiB	gssproxy
+0.33 MiB	haskell-blaze-builder
+0.33 MiB	libbsd
+0.33 MiB	libgexiv2
+0.33 MiB	libglade
+0.33 MiB	libutf8proc
+0.33 MiB	polkit-gnome
+0.33 MiB	quazip
+0.33 MiB	rhash
+0.34 MiB	efivar
+0.34 MiB	haskell-transformers-compat
+0.34 MiB	lib32-readline
+0.34 MiB	libmodplug
+0.34 MiB	libnghttp2
+0.34 MiB	libproxy
+0.34 MiB	unzip
+0.34 MiB	vpnc
+0.35 MiB	haskell-glob
+0.35 MiB	libgudev
+0.35 MiB	libnewt
+0.36 MiB	lib32-flac
+0.36 MiB	libdc1394
+0.36 MiB	libxext
+0.36 MiB	vulkan-icd-loader
+0.37 MiB	gcab
+0.37 MiB	pcsclite
+0.37 MiB	python-hyperlink
+0.37 MiB	python-shiboken2
+0.38 MiB	lib32-lcms2
+0.38 MiB	libidn2
+0.38 MiB	libxmu
+0.38 MiB	python-xdg
+0.39 MiB	cairomm
+0.39 MiB	freeglut
+0.39 MiB	gssdp
+0.39 MiB	haskell-base-compat
+0.39 MiB	libcanberra
+0.39 MiB	libnm-gtk
+0.39 MiB	libpgm
+0.40 MiB	dhcpcd
+0.40 MiB	jre8-openjdk
+0.40 MiB	libice
+0.40 MiB	lz4
+0.40 MiB	wayland-protocols
+0.41 MiB	gpm
+0.41 MiB	lib32-libdrm
+0.41 MiB	licenses
+0.41 MiB	metis
+0.42 MiB	haskell-hashable
+0.42 MiB	lib32-libxt
+0.42 MiB	lzo
+0.43 MiB	cmark-gfm
+0.43 MiB	dconf
+0.43 MiB	haskell-old-time
+0.43 MiB	haskell-sha
+0.43 MiB	libtommath
+0.43 MiB	wavpack
+0.44 MiB	haskell-asn1-encoding
+0.44 MiB	haskell-asn1-types
+0.44 MiB	haskell-regex-pcre
+0.44 MiB	perl-xml-parser
+0.44 MiB	python-requests
+0.44 MiB	xfce4-taskmanager
+0.44 MiB	zbar
+0.45 MiB	libssh2
+0.46 MiB	haskell-scientific
+0.46 MiB	lib32-nettle
+0.46 MiB	re2
+0.46 MiB	xfce4-battery-plugin
+0.47 MiB	cpupower
+0.47 MiB	libvisual
+0.47 MiB	pangomm
+0.47 MiB	python-beaker
+0.47 MiB	tslib
+0.48 MiB	f2fs-tools
+0.48 MiB	fuse3
+0.48 MiB	gdbm
+0.48 MiB	glu
+0.48 MiB	haskell-zip-archive
+0.48 MiB	libexttextcat
+0.48 MiB	libvoikko
+0.48 MiB	mobile-broadband-provider-info
+0.48 MiB	pinentry
+0.48 MiB	python-more-itertools
+0.48 MiB	sound-theme-freedesktop
+0.49 MiB	fuse2
+0.49 MiB	haskell-syb
+0.49 MiB	lib32-glu
+0.49 MiB	lib32-pango
+0.49 MiB	libogg
+0.49 MiB	libsodium
+0.49 MiB	qt5-svg
+0.49 MiB	viewnior
+0.50 MiB	haskell-blaze-markup
+0.50 MiB	haskell-exceptions
+0.50 MiB	libsasl
+0.50 MiB	libtirpc
+0.50 MiB	libupnp
+0.50 MiB	mkinitcpio-busybox
+0.50 MiB	psmisc
+0.51 MiB	haskell-network-uri
+0.51 MiB	lib32-gdk-pixbuf2
+0.51 MiB	libgusb
+0.51 MiB	libplacebo
+0.51 MiB	libuv
+0.51 MiB	lmdb
+0.51 MiB	pamac-gtk
+0.52 MiB	haskell-random
+0.52 MiB	lib32-e2fsprogs
+0.52 MiB	lib32-mesa-demos
+0.53 MiB	libopenraw
+0.53 MiB	libxi
+0.53 MiB	lm_sensors
+0.53 MiB	ndctl
+0.53 MiB	python-dbus
+0.53 MiB	python-pyopenssl
+0.53 MiB	xfce4-notes-plugin
+0.53 MiB	xfce4-sensors-plugin
+0.54 MiB	atkmm
+0.54 MiB	lib32-glew
+0.54 MiB	libxkbcommon
+0.54 MiB	speexdsp
+0.54 MiB	xfce4-appfinder
+0.54 MiB	xfce4-notifyd
+0.55 MiB	faad2
+0.55 MiB	glib-networking
+0.55 MiB	ipw2200-fw
+0.55 MiB	kmod
+0.55 MiB	lib32-libsndfile
+0.55 MiB	libssh
+0.55 MiB	libwacom
+0.55 MiB	rsync
+0.56 MiB	lib32-pam
+0.56 MiB	libplist
+0.56 MiB	libpng
+0.56 MiB	net-tools
+0.56 MiB	ttf-bitstream-vera
+0.56 MiB	zip
+0.57 MiB	ecryptfs-utils
+0.57 MiB	libdvbpsi
+0.57 MiB	libomxil-bellagio
+0.57 MiB	xf86-video-ati
+0.59 MiB	ipw2100-fw
+0.59 MiB	libpcap
+0.60 MiB	haskell-hxt-regex-xmlschema
+0.60 MiB	libstemmer
+0.60 MiB	powertop
+0.60 MiB	python-pyasn1
+0.61 MiB	lib32-libtiff
+0.62 MiB	gts
+0.62 MiB	haskell-pretty-show
+0.62 MiB	neon
+0.62 MiB	perl-alien-build
+0.62 MiB	reiserfsprogs
+0.62 MiB	shaderc
+0.62 MiB	speex
+0.63 MiB	gnome-menus
+0.63 MiB	lcms2
+0.63 MiB	lib32-libcups
+0.63 MiB	libatomic_ops
+0.63 MiB	xfce4-mailwatch-plugin
+0.64 MiB	haskell-http-types
+0.64 MiB	libthai
+0.64 MiB	python-urllib3
+0.64 MiB	xorg-fonts-encodings
+0.65 MiB	grep
+0.65 MiB	gst-plugins-ugly
+0.65 MiB	libgee06
+0.65 MiB	networkmanager-pptp
+0.65 MiB	networkmanager-vpnc
+0.65 MiB	xfce4-screenshooter
+0.66 MiB	cups-pk-helper
+0.66 MiB	lib32-libsoup
+0.66 MiB	lib32-zstd
+0.66 MiB	thunar-volman
+0.67 MiB	apr-util
+0.67 MiB	ding-libs
+0.67 MiB	gd
+0.67 MiB	haskell-ansi-terminal
+0.67 MiB	inxi
+0.67 MiB	lib32-ncurses
+0.67 MiB	libidn
+0.67 MiB	libmng
+0.67 MiB	poppler-qt5
+0.67 MiB	python-idna
+0.68 MiB	lib32-pixman
+0.68 MiB	libseccomp
+0.68 MiB	xfce4-clipman-plugin
+0.69 MiB	cantarell-fonts
+0.69 MiB	haskell-xml
+0.69 MiB	libnfs
+0.69 MiB	python-mako
+0.69 MiB	readline
+0.70 MiB	haskell-ipynb
+0.70 MiB	lib32-libldap
+0.70 MiB	libburn
+0.70 MiB	libva
+0.70 MiB	mlocate
+0.70 MiB	python-click
+0.70 MiB	python-pyparsing
+0.70 MiB	sed
+0.71 MiB	libheif
+0.71 MiB	libnumbertext
+0.71 MiB	manjaro-settings-manager-notifier
+0.71 MiB	xfce4-pulseaudio-plugin
+0.71 MiB	xvidcore
+0.72 MiB	dnsmasq
+0.72 MiB	haskell-time-compat
+0.72 MiB	nspr
+0.72 MiB	udiskie
+0.72 MiB	wayland
+0.73 MiB	gptfdisk
+0.73 MiB	haskell-zlib
+0.73 MiB	network-manager-applet
+0.74 MiB	hunspell
+0.74 MiB	mpfr
+0.74 MiB	perl-xml-libxml
+0.74 MiB	pixman
+0.74 MiB	xz
+0.75 MiB	dbus-glib
+0.75 MiB	hspell
+0.75 MiB	lib32-gmp
+0.75 MiB	libisofs
+0.75 MiB	python-websockets
+0.76 MiB	graphite
+0.76 MiB	lib32-libvorbis
+0.76 MiB	rest
+0.76 MiB	xfce4-dict
+0.77 MiB	gc
+0.77 MiB	xdg-desktop-portal-gtk
+0.78 MiB	ufw
+0.78 MiB	volume_key
+0.79 MiB	haskell-th-abstraction
+0.79 MiB	webrtc-audio-processing
+0.80 MiB	haskell-colour
+0.81 MiB	device-mapper
+0.81 MiB	gobject-introspection-runtime
+0.81 MiB	libxfce4util
+0.81 MiB	mpg123
+0.81 MiB	python-yaml
+0.81 MiB	tumbler
+0.82 MiB	ldb
+0.83 MiB	geocode-glib
+0.83 MiB	haskell-socks
+0.83 MiB	lib32-freetype2
+0.83 MiB	libcups
+0.83 MiB	libinput
+0.83 MiB	libnma
+0.83 MiB	xcb-proto
+0.84 MiB	haskell-hxt-unicode
+0.84 MiB	nettle
+0.86 MiB	foomatic-db-engine
+0.86 MiB	lib32-libgcrypt
+0.87 MiB	kauth
+0.88 MiB	libmatroska
+0.88 MiB	manjaro-hello
+0.90 MiB	ca-certificates-mozilla
+0.90 MiB	cracklib
+0.90 MiB	libldap
+0.91 MiB	garcon
+0.91 MiB	gst-plugins-base
+0.91 MiB	lib32-colord
+0.91 MiB	qt5ct
+0.92 MiB	libdrm
+0.92 MiB	libsndfile
+0.92 MiB	lightdm-gtk-greeter-settings
+0.92 MiB	pavucontrol
+0.93 MiB	lib32-alsa-lib
+0.93 MiB	libcdio
+0.93 MiB	lightdm-gtk-greeter
+0.94 MiB	ppp
+0.95 MiB	dav1d
+0.95 MiB	gmp
+0.95 MiB	haskell-streaming-commons
+0.95 MiB	libmypaint
+0.95 MiB	upower
+0.96 MiB	audit
+0.96 MiB	mdadm
+0.97 MiB	lame
+0.98 MiB	lib32-libxcb
+0.99 MiB	lib32-libpulse
+1.00 MiB	haskell-cereal
+1.00 MiB	lib32-sqlite
+1.01 MiB	python-cffi
+1.02 MiB	accountsservice
+1.02 MiB	illyria-wallpaper
+1.02 MiB	openvpn
+1.02 MiB	sdl
+1.03 MiB	libde265
+1.03 MiB	lua
+1.03 MiB	python-npyscreen
+1.04 MiB	libmtp
+1.04 MiB	l-smash
+1.04 MiB	terminus-font
+1.04 MiB	xfconf
+1.05 MiB	jfsutils
+1.05 MiB	luajit
+1.05 MiB	s-nail
+1.06 MiB	dbus
+1.06 MiB	haskell-haddock-library
+1.06 MiB	lib32-libepoxy
+1.06 MiB	libwebp
+1.06 MiB	orc
+1.07 MiB	lib32-libglvnd
+1.07 MiB	libarchive
+1.07 MiB	libixion
+1.07 MiB	pacman-mirrors
+1.09 MiB	imlib2
+1.09 MiB	python-gobject
+1.10 MiB	haskell-cmark-gfm
+1.10 MiB	libgpg-error
+1.11 MiB	python-pyasn1-modules
+1.12 MiB	flac
+1.12 MiB	haskell-unordered-containers
+1.12 MiB	inetutils
+1.12 MiB	python-chardet
+1.13 MiB	libsigc++
+1.15 MiB	xfce4-whiskermenu-plugin
+1.16 MiB	libevent
+1.17 MiB	gtk-engines
+1.17 MiB	libbluray
+1.17 MiB	networkmanager-openvpn
+1.18 MiB	flex
+1.18 MiB	libcroco
+1.19 MiB	apr
+1.19 MiB	babl
+1.19 MiB	haskell-hslua
+1.19 MiB	python-html5lib
+1.20 MiB	haskell-memory
+1.21 MiB	archlinux-keyring
+1.21 MiB	nfs-utils
+1.22 MiB	libcaca
+1.22 MiB	qt5-styleplugins
+1.23 MiB	gpgme
+1.23 MiB	python-asn1crypto
+1.25 MiB	python-distlib
+1.27 MiB	procps-ng
+1.28 MiB	haskell-lexer
+1.28 MiB	python-pycparser
+1.31 MiB	xfce4-session
+1.32 MiB	geoclue
+1.32 MiB	libteam
+1.33 MiB	galculator-gtk2
+1.33 MiB	lib32-libx11
+1.33 MiB	python-pip
+1.33 MiB	zvbi
+1.34 MiB	gupnp
+1.34 MiB	lib32-pcre
+1.35 MiB	mousepad
+1.36 MiB	libgcrypt
+1.37 MiB	kitemmodels
+1.39 MiB	catfish
+1.39 MiB	diffutils
+1.39 MiB	jasper
+1.39 MiB	libblockdev
+1.39 MiB	thin-provisioning-tools
+1.40 MiB	libutil-linux
+1.40 MiB	libwpg
+1.41 MiB	libpulse
+1.42 MiB	haskell-network
+1.44 MiB	lpsolve
+1.47 MiB	lib32-libjpeg-turbo
+1.47 MiB	libfdk-aac
+1.47 MiB	libmp4v2
+1.49 MiB	haskell-x509
+1.49 MiB	libvorbis
+1.49 MiB	make
+1.50 MiB	lib32-libxml2
+1.51 MiB	lib32-libunistring
+1.52 MiB	vte3
+1.53 MiB	libsamplerate
+1.54 MiB	lib32-brotli
+1.54 MiB	python-setuptools
+1.56 MiB	automake
+1.56 MiB	freetype2
+1.56 MiB	openal
+1.57 MiB	kwindowsystem
+1.58 MiB	findutils
+1.58 MiB	lib32-util-linux
+1.60 MiB	curl
+1.60 MiB	json-glib
+1.60 MiB	spandsp
+1.61 MiB	haskell-primitive
+1.61 MiB	xorgproto
+1.62 MiB	taglib
+1.63 MiB	jsoncpp
+1.64 MiB	farstream
+1.64 MiB	lib32-cairo
+1.66 MiB	rasqal
+1.66 MiB	xcursor-vanilla-dmz-aa
+1.68 MiB	haskell-http
+1.68 MiB	libzmf
+1.68 MiB	redland
+1.71 MiB	haskell-hourglass
+1.71 MiB	hwids
+1.71 MiB	libxaw
+1.71 MiB	opus
+1.72 MiB	alsa-lib
+1.72 MiB	haskell-hsyaml
+1.73 MiB	ntfs-3g
+1.74 MiB	libtheora
+1.76 MiB	python2-gobject2
+1.77 MiB	lib32-harfbuzz
+1.77 MiB	libnice
+1.78 MiB	haskell-http-client
+1.78 MiB	libodfgen
+1.78 MiB	xfburn
+1.79 MiB	systemd-libs
+1.79 MiB	xdg-desktop-portal
+1.83 MiB	xfce4-xkb-plugin
+1.85 MiB	lib32-systemd
+1.85 MiB	perl-dbi
+1.86 MiB	audacious
+1.87 MiB	gnome-icon-theme-symbolic
+1.87 MiB	pamac-common
+1.88 MiB	libcmis
+1.91 MiB	lightdm
+1.91 MiB	python-zope-interface
+1.91 MiB	yelp-xsl
+1.93 MiB	avahi
+1.93 MiB	ldns
+1.93 MiB	raptor
+1.96 MiB	haskell-cmdargs
+1.96 MiB	xfce4-terminal
+1.97 MiB	docbook-xml
+1.98 MiB	bison
+1.98 MiB	kvantum-manjaro
+1.98 MiB	libpagemaker
+1.99 MiB	pipewire
+2.01 MiB	lensfun
+2.02 MiB	libnl
+2.02 MiB	menulibre
+2.03 MiB	libexif
+2.05 MiB	lib32-libelf
+2.06 MiB	autoconf
+2.06 MiB	polkit
+2.08 MiB	libsecret
+2.09 MiB	libxt
+2.10 MiB	libraw
+2.12 MiB	at-spi2-core
+2.14 MiB	adobe-source-code-pro-fonts
+2.14 MiB	lib32-gnutls
+2.14 MiB	libgsf
+2.16 MiB	alsa-utils
+2.16 MiB	libjpeg-turbo
+2.17 MiB	libmbim
+2.18 MiB	fontconfig
+2.19 MiB	libtool
+2.19 MiB	man-db
+2.20 MiB	parted
+2.25 MiB	libunistring
+2.25 MiB	xf86-video-intel
+2.28 MiB	bluez
+2.29 MiB	brotli
+2.30 MiB	haskell-mime-types
+2.30 MiB	libxslt
+2.31 MiB	kvantum-theme-matcha
+2.31 MiB	libimobiledevice
+2.32 MiB	cryptsetup
+2.32 MiB	qpdfview
+2.33 MiB	networkmanager-openconnect
+2.33 MiB	python-cryptography
+2.34 MiB	libelf
+2.35 MiB	python-psutil
+2.37 MiB	mjpegtools
+2.41 MiB	iptables
+2.41 MiB	libxfce4ui
+2.44 MiB	graphene
+2.44 MiB	manjaro-firmware
+2.44 MiB	poppler-glib
+2.46 MiB	grub-theme-manjaro
+2.46 MiB	intel-ucode
+2.48 MiB	haskell-attoparsec
+2.48 MiB	nano
+2.49 MiB	glew
+2.50 MiB	lib32-p11-kit
+2.51 MiB	qpdf
+2.58 MiB	lib32-krb5
+2.58 MiB	ttf-indic-otf
+2.59 MiB	xfwm4
+2.60 MiB	iproute2
+2.61 MiB	pam
+2.61 MiB	yelp
+2.62 MiB	intel-tbb
+2.67 MiB	python-pillow
+2.69 MiB	libepubgen
+2.73 MiB	libtiff
+2.76 MiB	libabw
+2.77 MiB	gawk
+2.77 MiB	gtk-doc
+2.79 MiB	dhclient
+2.83 MiB	jack
+2.83 MiB	tar
+2.85 MiB	tzdata
+2.87 MiB	kbd
+2.88 MiB	wget
+2.89 MiB	cups-filters
+2.94 MiB	zeromq
+2.96 MiB	sdl2
+2.97 MiB	haskell-quickcheck
+2.98 MiB	xfdesktop
+2.98 MiB	zstd
+2.99 MiB	haskell-pandoc-types
+2.99 MiB	steam-manjaro
+3.00 MiB	libwnck3
+3.07 MiB	lib32-nss
+3.12 MiB	liblangtag
+3.12 MiB	openconnect
+3.13 MiB	gsfonts
+3.17 MiB	libfbclient
+3.20 MiB	appstream-glib
+3.20 MiB	hwinfo
+3.20 MiB	source-highlight
+3.22 MiB	libepoxy
+3.22 MiB	slang
+3.24 MiB	libwmf
+3.25 MiB	liborcus
+3.29 MiB	lib32-openssl
+3.32 MiB	suitesparse
+3.33 MiB	ostree
+3.36 MiB	aspell
+3.36 MiB	geoip-database
+3.36 MiB	sudo
+3.39 MiB	mypaint-brushes1
+3.42 MiB	libqxp
+3.42 MiB	pcre
+3.43 MiB	cairo
+3.45 MiB	kcoreaddons
+3.46 MiB	blueman
+3.47 MiB	clucene
+3.50 MiB	xorg-server
+3.51 MiB	p11-kit
+3.55 MiB	atk
+3.56 MiB	lib32-librsvg
+3.58 MiB	ncurses
+3.60 MiB	lib32-glib2
+3.64 MiB	libglvnd
+3.68 MiB	exo
+3.68 MiB	xfce4-settings
+3.72 MiB	pcre2
+3.72 MiB	xfce4-power-manager
+3.73 MiB	file-roller
+3.73 MiB	mugshot
+3.73 MiB	x264
+3.80 MiB	mbedtls
+3.85 MiB	gufw
+3.88 MiB	gvim
+3.89 MiB	iana-etc
+3.90 MiB	manjaro-settings-manager
+4.00 MiB	libxcb
+4.04 MiB	gdk-pixbuf2
+4.10 MiB	mypaint-brushes
+4.11 MiB	ttf-liberation
+4.12 MiB	gsettings-desktop-schemas
+4.16 MiB	pidgin
+4.17 MiB	opera-ffmpeg-codecs
+4.21 MiB	librsvg
+4.22 MiB	v4l-utils
+4.25 MiB	shared-mime-info
+4.28 MiB	nethack
+4.29 MiB	haskell-tls
+4.32 MiB	ntp
+4.32 MiB	wpa_supplicant
+4.35 MiB	shadow
+4.35 MiB	xfce4-weather-plugin
+4.36 MiB	pango
+4.39 MiB	linux-api-headers
+4.44 MiB	libvpx
+4.48 MiB	harfbuzz
+4.52 MiB	gnome-themes-extra
+4.60 MiB	xfce4-panel
+4.64 MiB	pacman
+4.66 MiB	krb5
+4.76 MiB	e2fsprogs
+4.76 MiB	pyqt5-common
+4.79 MiB	libsoup
+4.83 MiB	openssh
+4.87 MiB	btrfs-progs
+4.88 MiB	xmlsec
+4.89 MiB	haskell-tagsoup
+4.92 MiB	poppler
+4.95 MiB	python-lxml
+4.99 MiB	lynx
+5.04 MiB	gnome-keyring
+5.04 MiB	pygtk
+5.04 MiB	vulkan-radeon
+5.08 MiB	libmm-glib
+5.08 MiB	orage
+5.10 MiB	gvfs
+5.11 MiB	nss
+5.12 MiB	xfsprogs
+5.14 MiB	lib32-vulkan-radeon
+5.20 MiB	haskell-skylighting-core
+5.22 MiB	xcursor-breeze
+5.33 MiB	haskell-basement
+5.33 MiB	spirv-tools
+5.38 MiB	xkeyboard-config
+5.43 MiB	nm-connection-editor
+5.50 MiB	hexchat
+5.55 MiB	file
+5.55 MiB	haskell-blaze-html
+5.64 MiB	avr-binutils
+5.67 MiB	audacious-plugins
+5.67 MiB	vulkan-intel
+5.68 MiB	libfreehand
+5.68 MiB	man-pages
+5.79 MiB	gcr
+5.81 MiB	lib32-vulkan-intel
+5.82 MiB	openssl-1.0
+5.83 MiB	fftw
+5.91 MiB	glibmm
+5.93 MiB	gst-plugins-good
+5.93 MiB	haskell-hxt-charproperties
+6.04 MiB	flatpak
+6.10 MiB	zsh
+6.18 MiB	libgphoto2
+6.25 MiB	pulseaudio
+6.26 MiB	p7zip
+6.32 MiB	thunar
+6.33 MiB	db
+6.39 MiB	kvantum-qt5
+6.42 MiB	lib32-gtk2
+6.48 MiB	haskell-vector
+6.62 MiB	lvm2
+6.62 MiB	srt
+6.62 MiB	tcl
+6.65 MiB	zenity
+6.73 MiB	gnutls
+6.85 MiB	libmspub
+6.92 MiB	libnm-glib
+6.93 MiB	colord
+6.95 MiB	libical
+6.98 MiB	lapack
+7.05 MiB	gparted
+7.10 MiB	system-config-printer
+7.24 MiB	python-pygments
+7.30 MiB	gettext
+7.38 MiB	openssl
+7.44 MiB	gtksourceview3
+7.46 MiB	libcdr
+7.49 MiB	haskell-unicode-transforms
+7.51 MiB	android-tools
+7.58 MiB	librevenge
+7.66 MiB	papirus-maia-icon-theme
+7.73 MiB	gtkmm
+7.77 MiB	mesa-demos
+7.79 MiB	net-snmp
+7.82 MiB	libva-intel-driver
+7.86 MiB	haskell-juicypixels
+7.95 MiB	lib32-libva-intel-driver
+7.99 MiB	haskell-skylighting
+8.10 MiB	aom
+8.10 MiB	gst-plugins-bad
+8.16 MiB	python-sqlalchemy
+8.18 MiB	python-dbus-common
+8.25 MiB	haskell-aeson
+8.35 MiB	python-reportlab
+8.40 MiB	bash
+8.40 MiB	gegl
+8.42 MiB	libvisio
+8.46 MiB	exiv2
+8.49 MiB	sqlite
+8.53 MiB	texinfo
+9.20 MiB	libxml2
+9.23 MiB	protobuf
+9.56 MiB	libtorrent-rasterbar
+9.56 MiB	modemmanager
+9.58 MiB	groff
+9.58 MiB	manjaro-documentation-en
+9.69 MiB	imagemagick
+9.77 MiB	gnupg
+9.80 MiB	haskell-cryptonite
+9.82 MiB	liblouis
+9.93 MiB	boost-libs
+9.99 MiB	manjaro-wallpapers-18.0
+10.03 MiB	haskell-hxt
+10.04 MiB	gnome-icon-theme
+10.16 MiB	lib32-gtk3-classic
+10.34 MiB	deluge
+10.53 MiB	gtkmm3
+10.54 MiB	libx11
+10.81 MiB	libe-book
+11.14 MiB	libnm
+11.55 MiB	poppler-data
+11.85 MiB	qt5-location
+12.26 MiB	cups
+12.34 MiB	udisks2
+12.35 MiB	util-linux
+12.63 MiB	openjpeg2
+12.91 MiB	vala
+12.92 MiB	glslang
+12.94 MiB	alsa-firmware
+14.36 MiB	glib2
+14.52 MiB	libwpd
+15.07 MiB	networkmanager
+15.18 MiB	wallpapers-2018
+15.34 MiB	ttf-droid
+15.40 MiB	coreutils
+15.40 MiB	engrampa
+16.93 MiB	graphviz
+17.12 MiB	gst-plugins-base-libs
+17.16 MiB	archlinux-appstream-data
+17.51 MiB	adapta-maia-theme
+17.98 MiB	iso-codes
+18.32 MiB	gstreamer
+18.38 MiB	libwps
+18.40 MiB	lib32-glibc
+18.83 MiB	x265
+19.07 MiB	libetonyek
+19.46 MiB	glib2-docs
+20.81 MiB	qt5-declarative
+21.03 MiB	systemd
+21.56 MiB	libqmi
+22.78 MiB	adwaita-icon-theme
+23.49 MiB	python-pyqt5
+23.91 MiB	haskell-texmath
+25.35 MiB	matcha-gtk-theme
+25.70 MiB	nodejs
+25.79 MiB	libva-mesa-driver
+26.24 MiB	smbclient
+26.41 MiB	docbook-xsl
+26.89 MiB	lib32-libva-mesa-driver
+27.20 MiB	hplip
+28.74 MiB	avr-libc
+28.74 MiB	pychess
+29.23 MiB	vim-runtime
+29.25 MiB	binutils
+30.17 MiB	ffmpeg
+30.72 MiB	libpurple
+31.48 MiB	lib32-icu
+34.18 MiB	gtk2
+34.19 MiB	cmake
+35.03 MiB	python-twisted
+35.59 MiB	mesa-vdpau
+36.14 MiB	openexr
+36.25 MiB	git
+36.47 MiB	icu
+37.24 MiB	lib32-mesa-vdpau
+38.22 MiB	jdk8-openjdk
+39.85 MiB	subversion
+42.97 MiB	pandoc
+43.70 MiB	ghostscript
+44.10 MiB	guile
+46.03 MiB	glibc
+47.04 MiB	libstaroffice
+49.08 MiB	samba
+49.80 MiB	pyside2
+49.98 MiB	gtk3-classic
+50.69 MiB	js52
+51.22 MiB	grub
+54.57 MiB	libibus
+55.38 MiB	js60
+56.49 MiB	perl
+57.88 MiB	libmwaw
+58.67 MiB	vlc
+61.96 MiB	qt5-base
+66.28 MiB	papirus-icon-theme
+75.38 MiB	python2
+78.21 MiB	llvm-libs
+84.56 MiB	lib32-llvm-libs
+87.43 MiB	webkit2gtk
+90.85 MiB	noto-fonts
+94.55 MiB	avr-gcc
+95.68 MiB	jre8-openjdk-headless
+103.69 MiB	gimp
+105.94 MiB	lib32-gcc-libs
+123.58 MiB	linux419
+139.40 MiB	gcc
+144.23 MiB	discord
+144.87 MiB	python
+149.55 MiB	gcc-libs
+151.66 MiB	qt5-webengine
+156.20 MiB	thunderbird
+190.12 MiB	firefox
+214.33 MiB	ghc-libs
+275.11 MiB	lib32-mesa
+282.89 MiB	mesa
+379.71 MiB	libreoffice-still
+473.75 MiB	linux-firmware
+
+########  expac -H M "%011m\t%-20n\t%10d" $(comm -23 <(pacman -Qqen | sort) <(pacman -Qqg base base-devel | sort)) | sort -n
+
+   0.00 MiB	exo-gtk3            	Extensions to Xfce by os-cillation (meta-transfer-pkg)
+   0.00 MiB	garcon-gtk3         	Implementation of the freedesktop.org menu specification (meta-transfer-pkg)
+   0.00 MiB	manjaro-alsa        	Manjaro ALSA support (Meta-PKG)
+   0.00 MiB	manjaro-pulse       	Manjaro Pulseaudio support (Meta-PKG)
+   0.00 MiB	manjaro-release     	Manjaro's release definition
+   0.00 MiB	thunar-gtk3         	Modern file manager for Xfce (meta-transfer-pkg)
+   0.00 MiB	xfce4-appfinder-gtk3	An application finder for Xfce (meta-transfer-pkg)
+   0.00 MiB	xfce4-notifyd-gtk3  	Notification daemon for the Xfce desktop (meta-transfer-pkg)
+   0.00 MiB	xfce4-panel-gtk3    	Panel for the Xfce desktop environment (meta-transfer-pkg)
+   0.00 MiB	xfce4-power-manager-gtk3	Power manager for Xfce desktop (meta-transfer-pkg)
+   0.00 MiB	xfce4-session-gtk3  	A session manager for Xfce (meta-transfer-pkg)
+   0.00 MiB	xfce4-settings-gtk3 	Settings manager for xfce (meta-transfer-pkg)
+   0.00 MiB	xfce4-whiskermenu-plugin-gtk3	Menu for Xfce4 (meta-transfer-pkg)
+   0.00 MiB	xfconf-gtk3         	A simple client-server configuration storage and query system (meta-transfer-pkg)
+   0.00 MiB	xfdesktop-gtk3      	A desktop manager for Xfce (meta-transfer-pkg)
+   0.00 MiB	xfwm4-gtk3          	Xfce window manager (meta-transfer-pkg)
+   0.01 MiB	lib32-flex          	A tool for generating text-scanning programs
+   0.01 MiB	manjaro-system      	Manjaro Linux System - Update script
+   0.01 MiB	numlockx            	Turns on the numlock key in X11.
+   0.02 MiB	acpi                	Client for battery, power, and thermal readings
+   0.02 MiB	xf86-input-void     	X.org void input driver
+   0.03 MiB	expac               	pacman database extraction utility
+   0.03 MiB	libusb-compat       	Library to enable user space application programs to communicate with USB devices
+   0.03 MiB	manjaro-hotfixes    	Manjaro Linux Hotfixes
+   0.03 MiB	mkinitcpio-openswap 	mkinitcpio hook to open swap at boot time
+   0.03 MiB	mtpfs               	A FUSE filesystem that supports reading and writing from any MTP device
+   0.03 MiB	systemd-fsck-silent 	File system checks for SystemD (silent)
+   0.04 MiB	android-udev        	Udev rules to connect Android devices to your linux box
+   0.04 MiB	cowsay              	Configurable talking cow (and a few other creatures)
+   0.04 MiB	efibootmgr          	Tool to modify UEFI Firmware Boot Manager Variables
+   0.04 MiB	gcolor2             	A simple GTK+2 color selector
+   0.04 MiB	libdvdcss           	Portable abstraction library for DVD decryption
+   0.04 MiB	lsb-release         	LSB version query program
+   0.04 MiB	microsoft-office-online-jak	Microsoft Office Suite Online as a native application
+   0.04 MiB	xf86-input-keyboard 	X.Org keyboard input driver
+   0.05 MiB	gvfs-nfs            	Virtual filesystem implementation for GIO (NFS backend)
+   0.05 MiB	openresolv          	resolv.conf management framework (resolvconf)
+   0.05 MiB	xdg-su              	Run a program as root with the most environment appropriate available graphical authentication agent
+   0.05 MiB	xorg-xkill          	Kill a client by its X resource
+   0.06 MiB	b43-fwcutter        	firmware extractor for the b43 kernel module
+   0.06 MiB	pulseaudio-ctl      	Control pulseaudio volume from the shell or mapped to keyboard shortcuts.
+   0.07 MiB	xf86-input-elographics	X.org Elographics TouchScreen input driver
+   0.07 MiB	xfce4-smartbookmark-plugin	Plugin for the Xfce4 panel that lets you quicksearch from selected websites
+   0.08 MiB	perl-file-mimeinfo  	Determine file type, includes mimeopen and mimetype
+   0.08 MiB	xorg-xinit          	X.Org initialisation program
+   0.09 MiB	gvfs-smb            	Virtual filesystem implementation for GIO (SMB/CIFS backend; Windows client)
+   0.09 MiB	pulseaudio-zeroconf 	Zeroconf support for PulseAudio
+   0.10 MiB	lib32-libva-vdpau-driver	VDPAU backend for VA API (32-bit)
+   0.10 MiB	nss-mdns            	glibc plugin providing host name resolution via mDNS
+   0.11 MiB	libva-vdpau-driver  	VDPAU backend for VA API
+   0.11 MiB	xfce4-genmon-plugin 	plugin that monitors customizable programs stdout for the Xfce4 panel
+   0.12 MiB	manjaro-xfce-gtk3-settings	Manjaro Linux XFCE-GTK3 Settings
+   0.12 MiB	xf86-input-mouse    	X.org mouse input driver
+   0.12 MiB	xfce4-wavelan-plugin	Plugin to monitor wifi connectivity for the Xfce4 panel
+   0.13 MiB	xcursor-simpleandsoft	A simple and soft X cursor theme
+   0.13 MiB	xf86-input-evdev    	X.org evdev input driver
+   0.14 MiB	libappindicator-gtk2	Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 2 library)
+   0.14 MiB	os-prober           	Utility to detect other OSes on a set of drives
+   0.14 MiB	unace               	An extraction tool for the proprietary ace archive format
+   0.15 MiB	acpid               	A daemon for delivering ACPI power management events with netlink support
+   0.15 MiB	gvfs-afc            	Virtual filesystem implementation for GIO (AFC backend; Apple mobile devices)
+   0.15 MiB	haveged             	Entropy harvesting daemon using CPU timings
+   0.15 MiB	memtest86+          	An advanced memory diagnostic tool
+   0.15 MiB	splix               	CUPS drivers for SPL (Samsung Printer Language) printers
+   0.15 MiB	thunar-archive-plugin	Create and extract archives in Thunar
+   0.15 MiB	xdg-user-dirs       	Manage user directories like ~/Desktop and ~/Music
+   0.15 MiB	xf86-input-libinput 	Generic input driver for the X.Org server based on libinput
+   0.15 MiB	xfce4-mpc-plugin    	Control the Music Player Daemon from the Xfce4 panel
+   0.15 MiB	xfce4-systemload-plugin	A system load plugin for the Xfce4 panel
+   0.16 MiB	gvfs-gphoto2        	Virtual filesystem implementation for GIO (gphoto2 backend; PTP camera, MTP media player)
+   0.16 MiB	gvfs-mtp            	Virtual filesystem implementation for GIO (MTP backend; Android, media player)
+   0.16 MiB	xfce4-verve-plugin  	Command line plugin Xfce4 panel
+   0.17 MiB	gksu-polkit         	Replacement for gksu that uses PolicyKit
+   0.17 MiB	patchutils          	A small collection of programs that operate on patch files
+   0.17 MiB	xf86-video-amdgpu   	X.org amdgpu video driver
+   0.17 MiB	xfce4-cpugraph-plugin	CPU graph plugin for the Xfce4 panel
+   0.18 MiB	manjaro-browser-settings	Manjaro Linux settings browser defaults
+   0.19 MiB	htop                	Interactive process viewer
+   0.19 MiB	pulseaudio-bluetooth	Bluetooth support for PulseAudio
+   0.19 MiB	xfce4-time-out-plugin	Take a break from your computer with this plugin for Xfce4
+   0.19 MiB	xfce4-timer-plugin  	Plugin to track time for the Xfce4 panel
+   0.20 MiB	ttf-inconsolata     	Monospace font for pretty code listings and for the terminal
+   0.20 MiB	xfce4-netload-plugin	A netload plugin for the Xfce panel
+   0.21 MiB	dosfstools          	DOS filesystem utilities
+   0.21 MiB	xfce4-cpufreq-plugin	CPU frequency plugin for the Xfce4 panel
+   0.22 MiB	dmidecode           	Desktop Management Interface table related utilities
+   0.22 MiB	xfce4-diskperf-plugin	Plugin for the Xfce4 panel displaying instant disk/partition performance
+   0.23 MiB	cronie              	Daemon that runs specified programs at scheduled times and related tools
+   0.23 MiB	gst-libav           	GStreamer open-source multimedia framework FFmpeg plugin
+   0.23 MiB	less                	A terminal based program for viewing text files
+   0.23 MiB	screenfetch         	CLI Bash script to show system/theme info in screenshots
+   0.23 MiB	spectre-meltdown-checker	Spectre & Meltdown vulnerability/mitigation checker (CVE-2017-5753, CVE-2017-5715, CVE-2017-5754)
+   0.24 MiB	cups-pdf            	PDF printer for cups
+   0.24 MiB	xfce4-fsguard-plugin	File system usage monitor plugin for the Xfce4 panel
+   0.24 MiB	xorg-twm            	Tab Window Manager for the X Window System
+   0.25 MiB	xf86-video-nouveau  	Open Source 3D acceleration driver for nVidia cards
+   0.26 MiB	thunar-media-tags-plugin	Adds special features for media files to the Thunar File Manager
+   0.27 MiB	crda                	Central Regulatory Domain Agent for wireless networks
+   0.27 MiB	exfat-utils         	Utilities for exFAT file system
+   0.27 MiB	light-locker        	A simple session locker for LightDM
+   0.27 MiB	manjaro-application-utility	Manjaro Application Utility
+   0.28 MiB	xdg-utils           	Command line tools that assist applications with a variety of desktop integration tasks
+   0.29 MiB	ffmpegthumbnailer   	Lightweight video thumbnailer that can be used by file managers.
+   0.29 MiB	imagewriter         	A graphical utility for writing raw disk images & hybrid isos to USB keys
+   0.30 MiB	dmraid              	Device mapper RAID interface
+   0.30 MiB	unrar               	The RAR uncompression program
+   0.30 MiB	xfce4-mount-plugin  	Mount/umount utility for the Xfce4 panel
+   0.32 MiB	tlp                 	Linux Advanced Power Management
+   0.32 MiB	usb_modeswitch      	Activating switchable USB devices on Linux.
+   0.33 MiB	quazip              	C++ wrapper for the Gilles Vollant's ZIP/UNZIP C package
+   0.40 MiB	dhcpcd              	RFC2131 compliant DHCP client daemon
+   0.40 MiB	jre8-openjdk        	OpenJDK Java 8 full runtime environment
+   0.41 MiB	licenses            	Standard licenses distribution package
+   0.44 MiB	xfce4-taskmanager   	Easy to use task manager
+   0.46 MiB	xfce4-battery-plugin	A battery monitor plugin for the Xfce panel
+   0.47 MiB	cpupower            	Linux kernel tool to examine and tune power saving related features of your processor
+   0.48 MiB	f2fs-tools          	Tools for Flash-Friendly File System (F2FS)
+   0.48 MiB	mobile-broadband-provider-info	Network Management daemon
+   0.49 MiB	viewnior            	A simple, fast and elegant image viewer program
+   0.51 MiB	pamac-gtk           	A Package Manager based on libalpm with AUR and Appstream support
+   0.52 MiB	lib32-mesa-demos    	Mesa demos and tools (32-bit)
+   0.53 MiB	libopenraw          	Library for decoding RAW files
+   0.53 MiB	xfce4-notes-plugin  	A notes plugin for the Xfce4 panel
+   0.53 MiB	xfce4-sensors-plugin	A lm_sensors plugin for the Xfce panel
+   0.55 MiB	ipw2200-fw          	Firmware for the Intel PRO/Wireless 2200BG
+   0.55 MiB	rsync               	A file transfer program to keep remote files in sync
+   0.56 MiB	net-tools           	Configuration tools for Linux networking
+   0.56 MiB	ttf-bitstream-vera  	Bitstream Vera fonts.
+   0.57 MiB	ecryptfs-utils      	Enterprise-class stacked cryptographic filesystem for Linux
+   0.57 MiB	xf86-video-ati      	X.org ati video driver
+   0.59 MiB	ipw2100-fw          	Intel Centrino Drivers firmware for IPW2100
+   0.60 MiB	powertop            	A tool to diagnose issues with power consumption and power management
+   0.63 MiB	xfce4-mailwatch-plugin	Multi-protocol, multi-mailbox mail watcher for the Xfce4 panel
+   0.65 MiB	gst-plugins-ugly    	GStreamer open-source multimedia framework ugly plugins
+   0.65 MiB	networkmanager-pptp 	NetworkManager VPN plugin for PPTP
+   0.65 MiB	networkmanager-vpnc 	NetworkManager VPN plugin for VPNC
+   0.65 MiB	xfce4-screenshooter 	Plugin that makes screenshots for the Xfce panel
+   0.66 MiB	cups-pk-helper      	A helper that makes system-config-printer use PolicyKit
+   0.66 MiB	thunar-volman       	Automatic management of removeable devices in Thunar
+   0.67 MiB	inxi                	Full featured CLI system information tool
+   0.68 MiB	xfce4-clipman-plugin	A clipboard plugin for the Xfce4 panel
+   0.69 MiB	cantarell-fonts     	Humanist sans serif font
+   0.70 MiB	mlocate             	Merging locate/updatedb implementation
+   0.71 MiB	manjaro-settings-manager-notifier	Manjaro Linux System Settings Tool (Notifier)
+   0.71 MiB	xfce4-pulseaudio-plugin	Pulseaudio plugin for Xfce4 panel
+   0.72 MiB	dnsmasq             	Lightweight, easy to configure DNS forwarder and DHCP server
+   0.72 MiB	udiskie             	Removable disk automounter using udisks
+   0.73 MiB	network-manager-applet	Applet for managing network connections
+   0.76 MiB	xfce4-dict          	A dictionary plugin for the Xfce panel
+   0.81 MiB	tumbler             	D-Bus service for applications to request thumbnails
+   0.88 MiB	manjaro-hello       	A tool providing access to documentation and support for new Manjaro users.
+   0.91 MiB	gst-plugins-base    	GStreamer open-source multimedia framework base plugins
+   0.92 MiB	lightdm-gtk-greeter-settings	Settings editor for the LightDM GTK+ Greeter
+   0.92 MiB	pavucontrol         	PulseAudio Volume Control
+   0.93 MiB	lightdm-gtk-greeter 	GTK+ greeter for LightDM
+   1.02 MiB	accountsservice     	D-Bus interface for user account query and manipulation
+   1.04 MiB	terminus-font       	Monospace bitmap font (for X11 and console)
+   1.17 MiB	networkmanager-openvpn	NetworkManager VPN plugin for OpenVPN
+   1.21 MiB	nfs-utils           	Support programs for Network File Systems
+   1.33 MiB	galculator-gtk2     	GTK+ based scientific calculator (GTK2 version)
+   1.33 MiB	python-pip          	The PyPA recommended tool for installing Python packages
+   1.35 MiB	mousepad            	Simple text editor for Xfce
+   1.39 MiB	catfish             	Versatile file searching tool
+   1.39 MiB	diffutils           	Utility programs used for creating patch files
+   1.56 MiB	freetype2           	Font rasterization library
+   1.66 MiB	xcursor-vanilla-dmz-aa	Vanilla DMZ AA cursor theme
+   1.73 MiB	ntfs-3g             	NTFS filesystem driver and utilities
+   1.78 MiB	xfburn              	A simple CD/DVD burning tool based on libburnia libraries
+   1.83 MiB	xfce4-xkb-plugin    	Plugin to switch keyboard layouts for the Xfce4 panel
+   1.86 MiB	audacious           	Lightweight, advanced audio player focused on audio quality
+   1.91 MiB	lightdm             	A lightweight display manager
+   1.93 MiB	avahi               	Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
+   1.96 MiB	xfce4-terminal      	A modern terminal emulator primarily for the Xfce desktop environment
+   2.02 MiB	menulibre           	An advanced menu editor that provides modern features in a clean, easy-to-use interface. All without GNOME dependencies
+   2.14 MiB	libgsf              	An extensible I/O abstraction library for dealing with structured file formats
+   2.16 MiB	alsa-utils          	An alternative implementation of Linux sound support
+   2.19 MiB	man-db              	A utility for reading man pages
+   2.25 MiB	xf86-video-intel    	X.org Intel i810/i830/i915/945G/G965+ video drivers
+   2.32 MiB	qpdfview            	A tabbed PDF viewer using the poppler library.
+   2.33 MiB	networkmanager-openconnect	NetworkManager VPN plugin for OpenConnect
+   2.41 MiB	iptables            	Linux kernel packet control tool (using legacy interface)
+   2.44 MiB	manjaro-firmware    	Extra firmwares for Manjaro Linux
+   2.44 MiB	poppler-glib        	Poppler glib bindings
+   2.46 MiB	grub-theme-manjaro  	Manjaro Linux grub theme
+   2.46 MiB	intel-ucode         	Microcode update files for Intel CPUs
+   2.58 MiB	ttf-indic-otf       	Indic Opentype Fonts collection
+   2.61 MiB	yelp                	Get help with GNOME
+   2.67 MiB	python-pillow       	Python Imaging Library (PIL) fork. Python3 version.
+   2.79 MiB	dhclient            	A standalone DHCP client from the dhcp package
+   2.83 MiB	tar                 	Utility used to store, backup, and transport files
+   2.88 MiB	wget                	Network utility to retrieve files from the Web
+   2.99 MiB	steam-manjaro       	Valve's digital software delivery system
+   3.13 MiB	gsfonts             	(URW)++ Core Font Set [Level 2]
+   3.46 MiB	blueman             	GTK+ Bluetooth Manager
+   3.50 MiB	xorg-server         	Xorg X server
+   3.73 MiB	file-roller         	Create and modify archives
+   3.73 MiB	mugshot             	Program to update personal user details
+   3.85 MiB	gufw                	Uncomplicated way to manage your Linux firewall
+   3.88 MiB	gvim                	Vi Improved, a highly configurable, improved version of the vi text editor (with advanced features, such as a GUI)
+   3.90 MiB	manjaro-settings-manager	Manjaro Linux System Settings Tool
+   4.11 MiB	ttf-liberation      	Red Hats Liberation fonts
+   4.16 MiB	pidgin              	Multi-protocol instant messaging client
+   4.28 MiB	nethack             	A single player dungeon exploration game
+   4.32 MiB	ntp                 	Network Time Protocol reference implementation
+   4.32 MiB	wpa_supplicant      	A utility providing key negotiation for WPA wireless networks
+   4.35 MiB	xfce4-weather-plugin	A weather plugin for the Xfce4 panel
+   4.52 MiB	gnome-themes-extra  	Extra Themes for GNOME Applications
+   4.76 MiB	pyqt5-common        	Common PyQt files shared between python-pyqt5 and python2-pyqt5
+   4.83 MiB	openssh             	Premier connectivity tool for remote login with the SSH protocol
+   4.87 MiB	btrfs-progs         	Btrfs filesystem utilities
+   4.99 MiB	lynx                	A text browser for the World Wide Web
+   5.04 MiB	gnome-keyring       	Stores passwords and encryption keys
+   5.04 MiB	vulkan-radeon       	Radeon's Vulkan mesa driver
+   5.08 MiB	orage               	A simple calendar application with reminders for Xfce
+   5.10 MiB	gvfs                	Virtual filesystem implementation for GIO
+   5.14 MiB	lib32-vulkan-radeon 	Radeon's Vulkan mesa driver (32-bit)
+   5.50 MiB	hexchat             	A popular and easy to use graphical IRC (chat) client
+   5.67 MiB	vulkan-intel        	Intel's Vulkan mesa driver
+   5.68 MiB	man-pages           	Linux man pages
+   5.81 MiB	lib32-vulkan-intel  	Intel's Vulkan mesa driver (32-bit)
+   5.93 MiB	gst-plugins-good    	GStreamer open-source multimedia framework good plugins
+   6.04 MiB	flatpak             	Linux application sandboxing and distribution framework (formerly xdg-app)
+   6.10 MiB	zsh                 	A very advanced and programmable command interpreter (shell) for UNIX
+   6.26 MiB	p7zip               	Command-line file archiver with high compression ratio
+   7.05 MiB	gparted             	A Partition Magic clone, frontend to GNU Parted
+   7.10 MiB	system-config-printer	A CUPS printer configuration tool and status applet
+   7.51 MiB	android-tools       	Android platform tools
+   7.77 MiB	mesa-demos          	Mesa demos and tools incl. glxinfo + glxgears
+   7.82 MiB	libva-intel-driver  	VA-API implementation for Intel G45 and HD Graphics family
+   7.95 MiB	lib32-libva-intel-driver	VA-API implementation for Intel G45 and HD Graphics family (32-bit)
+   8.10 MiB	gst-plugins-bad     	GStreamer open-source multimedia framework bad plugins
+   8.35 MiB	python-reportlab    	A proven industry-strength PDF generating solution
+   9.56 MiB	modemmanager        	Mobile broadband modem management service
+   9.58 MiB	manjaro-documentation-en	Manjaro Beginner User Guide in English
+   9.99 MiB	manjaro-wallpapers-18.0	Official Wallpapers for the Manjarolinux 18.x release
+  10.04 MiB	gnome-icon-theme    	GNOME icon theme
+  10.16 MiB	lib32-gtk3-classic  	GTK3 patched for classic desktops like XFCE or MATE. (32-bit)
+  10.34 MiB	deluge              	A BitTorrent client with multiple user interfaces in a client/server model
+  11.55 MiB	poppler-data        	Encoding data for the poppler PDF rendering library
+  12.26 MiB	cups                	The CUPS Printing System - daemon package
+  12.34 MiB	udisks2             	Disk Management Service, version 2
+  12.94 MiB	alsa-firmware       	ALSA firmware package
+  15.07 MiB	networkmanager      	Network connection manager and user applications
+  15.18 MiB	wallpapers-2018     	Wallpapers for Manjaro - 2018
+  15.34 MiB	ttf-droid           	General-purpose fonts released by Google as part of Android
+  15.40 MiB	coreutils           	The basic file, shell and text manipulation utilities of the GNU operating system
+  15.40 MiB	engrampa            	Archive manipulator for MATE
+  23.49 MiB	python-pyqt5        	A set of Python 3.x bindings for the Qt5 toolkit
+  25.35 MiB	matcha-gtk-theme    	A flat design themes for GNOME, MATE, Openbox, Unity, XFCE, Budgie
+  25.70 MiB	nodejs              	Evented I/O for V8 javascript
+  25.79 MiB	libva-mesa-driver   	VA-API implementation for gallium
+  26.89 MiB	lib32-libva-mesa-driver	VA-API implementation for gallium (32-bit)
+  27.20 MiB	hplip               	Drivers for HP DeskJet, OfficeJet, Photosmart, Business Inkjet and some LaserJet
+  28.74 MiB	avr-libc            	The C runtime library for the AVR family of microcontrollers
+  28.74 MiB	pychess             	Chess client
+  30.17 MiB	ffmpeg              	Complete solution to record, convert and stream audio and video
+  34.19 MiB	cmake               	A cross-platform open-source make system
+  35.59 MiB	mesa-vdpau          	Mesa VDPAU drivers
+  36.25 MiB	git                 	the fast distributed version control system
+  37.24 MiB	lib32-mesa-vdpau    	Mesa VDPAU drivers (32-bit)
+  38.22 MiB	jdk8-openjdk        	OpenJDK Java 8 development kit
+  39.85 MiB	subversion          	A Modern Concurrent Version Control System
+  42.97 MiB	pandoc              	Conversion between markup formats
+  43.70 MiB	ghostscript         	An interpreter for the PostScript language
+  49.08 MiB	samba               	SMB Fileserver and AD Domain server
+  49.98 MiB	gtk3-classic        	GTK3 patched for classic desktops like XFCE or MATE. Please see README.
+  51.22 MiB	grub                	GNU GRand Unified Bootloader (2)
+  58.67 MiB	vlc                 	Multi-platform MPEG, VCD/DVD, and DivX player
+  95.68 MiB	jre8-openjdk-headless	OpenJDK Java 8 headless runtime environment
+ 103.69 MiB	gimp                	GNU Image Manipulation Program
+ 123.58 MiB	linux419            	The Linux419 kernel and modules
+ 144.23 MiB	discord             	All-in-one voice and text chat for gamers that's free and secure.
+ 156.20 MiB	thunderbird         	Standalone mail and news reader from mozilla.org
+ 190.12 MiB	firefox             	Standalone web browser from mozilla.org
+ 379.71 MiB	libreoffice-still   	LibreOffice maintenance branch
