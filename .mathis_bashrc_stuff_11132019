@@ -1,3 +1,5 @@
+# paste this at the bottom of your .bashrc and add .bash_aliases to your home directory
+
 # stuff I've added from here down. :)
 
 # Add my bash aliases from .bash-aliases
@@ -15,7 +17,9 @@ readmd () {
 hellothere () {
   echo "general kenobi"
 }
+
 #don't forget about nethack.
+
 #tooltip format for the manjaro clock
 #  It is %H hours and %M minutes into %A the %e of %B in the year of our lord %Y my liege.
 
