@@ -14,12 +14,10 @@ alias srcalias="source ~/.bash_aliases"
 alias myprofile="vim ~/.profile"
 alias srcprofile="source ~/.profile"
 alias pinstall="sudo pacman -S"
+alias premove="sudo pacman -Rcns"
+alias pclean="sudo pacman -R $(pacman -Qdtq)"
 alias myvim="vim ~/.vimrc"
 alias vimt="vim -p"
 alias update="sudo pacman -Syu"
-alias savesettings="cd ~ && cp -ut Documents/dev/copy-settings .vimrc .bashrc .bash_aliases .bash_profile && cd -"
-
-#these are for working with the teensy
-alias teensy="~/Documents/dev/keyboard/teensy_loader_cli/teensy_loader_cli --mcu=atmega32u4 -wv"
-alias hidlisten="~/Documents/dev/keyboard/hid_listen/hid_listen"
+alias poweruse="awk '{print \$1*10^-6 \" W\"}' /sys/class/power_supply/BAT0/power_now"
 
