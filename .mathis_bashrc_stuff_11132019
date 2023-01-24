@@ -2,8 +2,13 @@
 
 # stuff I've added from here down. :)
 
+# add a goofy PS1
+#tput <smul, rmul, bold, dim, setb, setf, rev, smso, rmso, sgr0>
+#tput colors: krgybmcw
+export PS1="$(tput dim)[\A|\u@\h|\w]$(tput sgr0)\n\[\033[1;32m\]->$\[\033[00m\] "
+export PS2=" \[\033[0;35m\] ->\[\033[00m\] "
+
 # Add my bash aliases from .bash-aliases
-# any PATH modifications are in .profile
 if [ -f ~/.bash_aliases ]; then
       source ~/.bash_aliases
 fi
@@ -19,6 +24,10 @@ hellothere () {
 }
 
 #don't forget about nethack.
+
+#centOS add java to the PATH
+export JAVA_HOME="/usr/lib/jvm/jdk1.8.0_251"
+PATH="/usr/lib/jvm/java-11-openjdk/bin:$PATH"
 
 #tooltip format for the manjaro clock
 #  It is %H hours and %M minutes into %A the %e of %B in the year of our lord %Y my liege.
