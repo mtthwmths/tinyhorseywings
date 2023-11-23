@@ -38,3 +38,17 @@ PATH="/usr/lib/jvm/java-11-openjdk/bin:$PATH"
 #tooltip format for the manjaro clock
 #  It is %H hours and %M minutes into %A the %e of %B in the year of our lord %Y my liege.
 
+obsidianbackup() {
+    # the path of your vault (assumes vault is a git repo
+    local vault_path="/the/full/path/to/your/vault/"
+
+    # Set up trap to execute 'cd -' on exit, regardless of errors
+    trap 'cd -' EXIT
+
+    cd "$vault_path" || { echo "Error: Could not change directory to $vault_path"; return 1; }
+    git add . || { echo "Error: Git add failed"; return 1; }
+    git commit -am "$(date +"%d%h%y@%H:%m%Z") backup" || { echo "Error: Git commit failed"; return 1; }
+    git push || { echo "Error: Git push failed"; return 1; }
+    cd -
+    trap - EXIT
+}
