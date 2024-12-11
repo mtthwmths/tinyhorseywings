@@ -52,3 +52,17 @@ obsidianbackup() {
     cd -
     trap - EXIT
 }
+
+obsidianpull(){
+    local vault_path="/home/testuser/Documents/dev/mm-vault1"
+
+    # set up trap to execute 'cd -' on exit, regardless of errors
+    trap 'cd -' EXIT
+
+    cd "$vault_path" || { echo "Error: Could not change directory to $vault_path"; return 1; }
+    git fetch || { echo "Error: Git fetch failed"; return 1; }
+    git pull || { echo "Error: Git pull failed"; return 1; }
+    cd -
+    trap - EXIT
+}
+
