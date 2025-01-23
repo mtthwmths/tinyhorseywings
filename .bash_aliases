@@ -36,3 +36,5 @@ alias poweruse="awk '{print \$1*10^-6 \" W\"}' /sys/class/power_supply/BAT0/powe
 #of the terminal window
 alias mynotes="vim ~/mynotes.md"
 
+# from k8s in action book. allows simpler command for changing namespace
+# alias kcd="kubectl config set-context $(kubectl config current-context) --namespace " 
