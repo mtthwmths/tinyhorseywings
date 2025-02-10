@@ -58,3 +58,33 @@ inoremap <leader><c-l> <esc>vawuea
 "the Hard Way.
 nnoremap <leader>ev :split $MYVIMRC<cr>
 nnoremap <leader>sv :source $MYVIMRC<cr>
+
+"abbreviations for common typos
+"from chapter 8 of Steve Losh's Learn Vimscript
+iabbrev adn and
+iabbrev waht what
+iabbrev tehn then
+iabbrev teh the
+iabbrev metada metadata
+
+"abbreviations for emails, signatures, etc
+"from chapter 8 of Steve Losh's Learn Vimscript
+iabbrev @@ mtthwmths@gmail.com
+iabbrev ssig v/r,<cr>Matt Mathis, Software Engineer<cr>mtthwmths@gmail.com
+
+"some mappings for learning about more
+"complicated mappings possible
+"from chapter 9 of steve losh's learn vimscript 
+"wrap the word in double quotes
+nnoremap <leader>" viw<esc>a"<esc>bi"<esc>lel
+"wrap the word in single quotes
+nnoremap <leader>' viw<esc>a'<esc>bi'<esc>lel
+"H is like h but 'more' so go all the way left
+"nnoremap H 0
+"L is like l but 'more' so go all the way right
+"nnoremap L $
+"wrap everything you have visually highlighted in double quotes
+vnoremap <leader>" <esc>'<i"<esc>'>a"<esc>v
+"wrap everything you have visually highlighted in single quotes
+vnoremap <leader>" <esc>'<i'<esc>'>a'<esc>v
+
